@@ -16,6 +16,6 @@ items:
  - atlemo/SubtlePatterns
  - mrmrs/colors
 display_name: Design essentials
-created_by: jonrohan
+created by sammytizzy 
 ---
 This collection of design libraries are the best on the web, and will complete your toolset for designing stunning products.
